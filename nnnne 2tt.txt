@@ -1,0 +1,82 @@
+White-box
+black-box
+1.BlackBox
+2.unitTesting
+3.user acceptance
+4.smoke-test
+
+
+SCRUM MASTER
+AJAI DEVLOPER
+BUSINESS ANALYST
+PRODUCT MANAGER
+DELIVERY MANAGER
+FAILURE/FAULT/BUG/DEFECT
+
+http-client[webapi to mvc] 
+query string webapi
+query string in mvc
+SignalR
+DEpendencing injection
+Var 
+Anchor tag new ling using anchor
+target_ _
+bootstrap well
+schema in xml
+restriction key in schema
+external bootstrap tp page <strip></strip>
+AMDD?Find
+ajai model devlopment_ _
+Architecture of mvc
+architecture of wcf  service oriented architecture
+advantage:-reliable service,transport,multi-port,secure,session management,more than 2+endpoints
+render body ,render section,render page
+mvc razor view extension
+strongly type view, strongly type helper method
+strongly type text-box
+Layout vs Master-page
+Router Path
+Bundling of Css and JavaScript file for mvc[BUNDELTABLE. ENABLEOPTIMIZATION = true]
+Bundles.add("object-->(scriptbundell)")
+render body vs render section
+webapi (IHTTPRESULT)
+MVC return view
+return string by return "container"
+return json(12type return in mvc,json,xml...)
+run at server-side(for server side)
+to create site-map in xmlform store in file web.site-map
+
+provider entity-data and ado.net
+
+open web interface for asp.net
+to host this website outside IIS
+use this microsoft.obin.host.system.
+
+Auto code 
+codequestion 
+
+cashing three tye
+data cashing
+2.fregment cashing
+3.output cashing 
+
+gridview ListView
+validation user-control
+operator(compare value)
+global.aspx (class http-application)
+multi-line property (to input multi-line)
+debugging step
+asp.net support managing user
+vb2010 web-matrix
+razorview html form method.post
+SOAP
+
+redirect to action(action,object) for one action to another
+
+register bundles(bundle collection)
+and register routes(route collection)
+razorview for list
+http handlers
+typ of stylesheet
+bootstrap pagination
+bootstrap paging
